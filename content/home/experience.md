@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Student Design Engineer"
+  company = "Triumph Motorcycles Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Hinckley, UK"
+  date_start = "2017-06-01"
+  date_end = "2018-07-01"
   description = """
+  During my placement I worked within the accessories department at Triumph,
+  developing new products for upcoming motorcycles and supported current existing products.
+
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Creating CAD from designer sketches using surface modeling techniques
+  * Verification of proposed models though the use of FEA, bolted joint analysis where appropriate
+  * Developing engineering drawings to BS8888 to be used by suppliers for manufacture
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Engineer Intern"
+  company = "BPE Design and Support Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Winchester, UK"
+  date_start = "2016-08-01"
+  date_end = "2016-09-01"
+  description = """Adapted engineering process flow diagrams and other technical drawings for a pharmaceutical client"""
 
 +++
