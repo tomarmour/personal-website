@@ -20,6 +20,8 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+timeout = "60000"
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
