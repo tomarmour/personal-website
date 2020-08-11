@@ -23,11 +23,11 @@ bio: ""
 interests:
 - Product Design
 - CAD Visulisation
-- Automotive
+- Automotive Industry
 
 education:
   courses:
-  - course: MEng in Product Design Engineering
+  - course: 2:1 MEng in Product Design Engineering
     institution: Loughborough University
     year: 2015 - 2020
   - course: A-levels, Product design (A), Maths (B) & Physics (B)
