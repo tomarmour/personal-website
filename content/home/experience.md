@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2018-07-01"
   description = """
   During my placement I worked within the accessories department at Triumph,
-  developing new products for upcoming motorcycles and supported current existing products.
+  developing new products for upcoming motorcycles and supported current existing products. At the conclusion of my placement, Triumph offered to sponsor me through the final two years of my degree.
 
   Responsibilities include:
 

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Product Deign Engineer
+role: Graduate Product Design Engineer
 
 # Organizations/Affiliations
 organizations:
